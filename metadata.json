@@ -1,0 +1,9 @@
+{
+  "name": "Aura — Emotional Resonance",
+  "description": "Seu diário inteligente que vê, ouve e sente. Capture a essência do seu dia com IA multimodal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
